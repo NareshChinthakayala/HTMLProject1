@@ -1,0 +1,12 @@
+class a
+{
+int a b
+System.out.println("sum of two digits"+(a+b));
+}
+class sum
+{
+public static void main(args[]);
+a.display(3O);
+b.display(7);
+return 0;
+}
